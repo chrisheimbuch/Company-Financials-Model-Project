@@ -15,6 +15,7 @@ This project showcases how Python can streamline monthly reporting, budgeting, a
 Explore the code to see how Python can enhance your reporting processes.
 
 Important files:
+
 Sales Deck CH Consulting: Powerpoint Deck to showcase and simulate a presentation to senior management / C-suite executives.
 fpa_model_edits: Working file with cleaned data, a forecast I created, waterfall graph, assumptions, and summaries. This is the main working file.
 fpa_model: A file that is generated based on the original excel file "Financials.csv" via Python with different tabs for insights and graphs and cleaned data.
